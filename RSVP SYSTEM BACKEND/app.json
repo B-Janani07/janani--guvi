@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "026e33ad-7f2d-4103-9a85-b944e4392ce2"
+      }
+    },
+    "android": {
+      "package": "com.pranay_goel.eventplanner"
+    }
+  }
+}
